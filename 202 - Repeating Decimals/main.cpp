@@ -1,3 +1,4 @@
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
@@ -7,7 +8,7 @@ int main()
     {
         vector<int> result;
         vector<int> remainder;
-
+        //karuz
         int x = b;
         int res = 0, rem = 0;
         int i = 0, k = 0, j = 0, count = 0;
